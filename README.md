@@ -20,13 +20,21 @@ WebView2 wird **nicht** installiert — sellyApps läuft ohne.
 
 ## Verwendung
 
-### CachyOS / Arch
+### One-Liner (Distro-Erkennung automatisch)
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/linuxprimus/selly-installer/main/install.sh | bash
+```
+
+### Direkt pro Distro
+
+CachyOS / Arch / Manjaro / EndeavourOS:
 
 ```bash
 bash install-selly.sh
 ```
 
-### Ubuntu / Zorin OS
+Ubuntu / Zorin / Debian / Pop!_OS / Mint:
 
 ```bash
 bash install-selly-ubuntu.sh
