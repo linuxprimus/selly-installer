@@ -26,6 +26,12 @@ WebView2 wird **nicht** installiert — sellyApps läuft ohne.
 curl -fsSL https://raw.githubusercontent.com/linuxprimus/selly-installer/main/install.sh | bash
 ```
 
+Kurzform (zeigt auf diese Repo-Seite — von hier den Befehl oben kopieren):
+
+```
+https://t1p.de/sellyapps
+```
+
 ### Direkt pro Distro
 
 CachyOS / Arch / Manjaro / EndeavourOS:
